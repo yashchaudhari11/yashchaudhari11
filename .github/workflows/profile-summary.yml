@@ -1,0 +1,16 @@
+name: Generate Profile Summary Cards
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # runs daily at midnight UTC
+  workflow_dispatch:        # lets you trigger it manually too
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          user: yashchaudhari11
+          theme: tokyonight
