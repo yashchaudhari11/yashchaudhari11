@@ -78,9 +78,13 @@ A contactless ordering system where customers scan a table QR code to browse the
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yashchaudhari11&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+<img src="https://raw.githubusercontent.com/yashchaudhari11/yashchaudhari11/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" width="65%" />
 
-<img src="https://raw.githubusercontent.com/yashchaudhari11/yashchaudhari11/profile-summary-cards-output/grid.svg" alt="Yash's GitHub Summary" />
+<img src="https://raw.githubusercontent.com/yashchaudhari11/yashchaudhari11/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" width="32%" />
+<img src="https://raw.githubusercontent.com/yashchaudhari11/yashchaudhari11/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos Per Language" width="32%" />
+
+<img src="https://raw.githubusercontent.com/yashchaudhari11/yashchaudhari11/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" width="32%" />
+<img src="https://raw.githubusercontent.com/yashchaudhari11/yashchaudhari11/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" width="32%" />
 
 </div>
 
