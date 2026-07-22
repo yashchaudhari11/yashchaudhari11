@@ -78,10 +78,9 @@ A contactless ordering system where customers scan a table QR code to browse the
 
 <div align="center">
 
-<!-- <img src="https://github-readme-stats-pink-six-57.vercel.app/api?username=yashchaudhari11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Yash's GitHub stats" height="165" /> -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashchaudhari11&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
 
-<!-- <img src="https://github-readme-stats-pink-six-57.vercel.app/api/top-langs/?username=yashchaudhari11&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" /> -->
+<img src="https://raw.githubusercontent.com/yashchaudhari11/yashchaudhari11/profile-summary-cards-output/grid.svg" alt="Yash's GitHub Summary" />
 
 </div>
 
