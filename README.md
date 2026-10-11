@@ -11,7 +11,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yashchaudhari11)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/yash231101055)
 
-![Profile Views](https://komarev.com/ghpvc/?username=yashchaudhari11&color=6C63FF&style=flat-square&label=Profile+Views)
+![Profile Views](https://hits.sh/github.com/yashchaudhari11.svg?style=flat-square&color=6C63FF&label=Profile+Views)
 
 </div>
 
